@@ -4,8 +4,8 @@ Frontend enthusiast crafting elegant React apps and learning full-stack magic ev
 
 ## 👨‍💻 About Me
 
-💼 Self-taught Developer passionate about FullStack development.
-🌱 Full Stack Developer with focus on server-side development.  
+💼 **Self-taught Developer** passionate about full-stack and frontend technologies.
+🌱 **Frontend Preferred:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript, Bootstrap.  
 📍 Based in Thrissur, Kerala.
 
 ## 🛠️ Tech Stack
@@ -33,6 +33,22 @@ Frontend enthusiast crafting elegant React apps and learning full-stack magic ev
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🌱 Currently Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+- 🐳 **Docker:** Containerization and deployment  
+- ⚡ **Next.js:** Advanced React, SSR, and full-stack web development  
+- 🌿 **Node.js:** Building scalable backend services and RESTful APIs
+
+## 🎯 Current Focus
+
+- ⚡ **Learning:** Docker, node.js, next.js
+- 🛠️ **Working on:** Personal projects to enhance my portfolio
+- 🤝 **Looking to collaborate on:** Open source projects
+- 💡 **Fun fact:** I believe in mastering the core basics before exploring new technologies!
 
 ## 📫 Connect with Me
 
