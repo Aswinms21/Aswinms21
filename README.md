@@ -4,9 +4,9 @@ Frontend enthusiast crafting elegant React apps and learning full-stack magic ev
 
 ## 👨‍💻 About Me
 
-💼 Self-taught Developer: passionate about full-stack and frontend technologies.
-🌱 Frontend Preferred: React, Next.js, Tailwind CSS, HTML, CSS, JavaScript, Bootstrap.  
-📍 Based in Thrissur, Kerala, India.
+- **Self-taught Developer** passionate about full-stack and frontend technologies.
+- **Frontend Preferred:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript, Bootstrap
+- 📍 Based in Thrissur, Kerala, India.
 
 ## 🛠️ Tech Stack
 
