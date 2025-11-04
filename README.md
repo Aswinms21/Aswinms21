@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Aswin M S
 
-[Your short bio - the 15-word catchy one we created earlier]
+Frontend enthusiast crafting elegant React apps and learning full-stack magic every day.
 
 ## 👨‍💻 About Me
 
-💼 Self-taught Developer passionate about FullStack development
-🌱 Full Stack Developer with focus on server-side development  
-📍 Based in [Your Location]
+💼 Self-taught Developer passionate about FullStack development.
+🌱 Full Stack Developer with focus on server-side development.  
+📍 Based in Thrissur, Kerala.
 
 ## 🛠️ Tech Stack
 
