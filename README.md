@@ -4,13 +4,11 @@ Frontend enthusiast crafting elegant React apps and learning full-stack magic ev
 
 ## 👨‍💻 About Me
 
-- **Self-taught Developer** passionate about full-stack and frontend technologies.
-- **Frontend Preferred:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript, Bootstrap
-- 📍 Based in Thrissur, Kerala, India.
+I am a full‑stack developer and software engineer with a strong interest in building modern web applications and AI‑driven solutions, including thoughtful UI/UX design. I am enjoy exploring and experimenting with new technologies.
+💬 **Self-taught Developer** passionate about full-stack and frontend technologies.
+⚡ **Fun fact**: I love turning random ideas into full working prototypes just to learn a new tech stack end‑to‑end.
 
 ## 🛠️ Tech Stack
-
-## 🚀 Tech Stack
 
 ### Frontend (Preferred)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
