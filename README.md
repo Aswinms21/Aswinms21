@@ -57,7 +57,6 @@ I am a full‑stack developer and software engineer with a strong interest in bu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-ms-5a9615220/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aswinms21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aswinms21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinms21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
